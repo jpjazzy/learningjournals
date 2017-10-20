@@ -1,12 +1,9 @@
-# Diving into paired programming
+# Designing our first website prototype
 
-Today was a very productive day and my first experience into paired programming.
+Today was a very another very productive day and I assume this will be the case with the entirety of the rest of my CodeFellows journey.
 
-The pair programming process went very well. Me and Hector worked together by creating a function and rewriting our code so the same functionality was present using functions.
-I learned how to explain functions and what is happening in the code more clearly.
+Today was a lecture mixed with a real dive into the life of a developer in every way. We had a layout that was simply a picture with dimensions and what we did was first lecture and then design just like a developer would when given a template by a designer. I found this process fascinating and I really enjoyed it.
 
-The most difficult part of the assignment was learning how to vocalize what a function actually does and where misunderstandings happened.
+Learning how to code in chrome to design visually is a huge plus and I know I am going to enjoy that because chrome is free and it's a powerful editor.
 
-Working with Hector was easy due to his calm demeanor.
-
-Sometimes working as a programmer isn't always about learning to do something with code so much as learning to communicate with your piers more effectively.
+I look forward to the next classes.
