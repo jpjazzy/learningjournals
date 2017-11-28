@@ -1,0 +1,5 @@
+#Getting started
+
+Today went a little different. Given we are in a new class, the structure has been completely flipped upside down in every way. Lecture from 2-5 makes it very hard to stay focused at night, but I am sure CF already knows that, though I will mention it in the feedback form anyway on the weekend. Also having lab assignments before the actual class means we have a strict time frame to get done in and this has it's benefits and drawbacks. I still have to wake up just as early but I only get 5 hours to do my work regardless of being finished or not, and since I have a tendancy to help others this could be a major drawback. We'll see. I also looked up my instructor on linkedin and found she just recently graduated CF this year. Good for her, and it gives me hope that maybe I could break into CF if I wanted to go the teaching route.
+
+RegEx is something I am definitely going to need to practice, but I am sure everyone will unless they have had prior experience with it. Hopefully I can find a tool that will help me with that fairly quickly.
