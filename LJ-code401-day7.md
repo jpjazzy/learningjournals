@@ -1,0 +1,3 @@
+## Learning Journal Day 7
+
+The last week with react has been really fun, but also very stressful. Hooking up a front end to our old backend all in one day was very stressful. I have learned a lot in the last week from handling files (today) to binary trees earlier in the week. Over all I enjoy learning new data structures and codefellows continues to maintain it's fast pace as usual. It's crazy to think it's almost over.
