@@ -1,0 +1,3 @@
+## Learning Journal Day 9
+
+This week has been pretty challenging and rewarding at the same time. We had whiteboarding interviews, so the work load got slightly easier with the trade off of studying for that. I passed my whiteboard, even though I didn't make it through the coding portion of the interview, which was stressful, but I am glad I passed anyway. Today we learned about real time testing and my project group decided on a jackbox type game for our project. Vinicio is going to go over socket.io on Friday which is going to be the premise of our game, so hopefully it comes out well.
